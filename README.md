@@ -1,4 +1,5 @@
 # Fetch-Movies
 
-Search your favourite movies.
+Search for your favourite movies and checkout the details relate to it like : IMDB rating, description, cast, director.
+
 
